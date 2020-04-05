@@ -1,5 +1,5 @@
 /*StudentName: Dookun Yash Djson
- *StudentID: 1810111
+ *
  *Task: Write function that accepts any number of strings, concatenates them
  		& converts to lowercase
  */
